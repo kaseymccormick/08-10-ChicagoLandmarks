@@ -1,3 +1,40 @@
 body{
   overflow-x: hidden;
 }
+
+//---------------------------
+//utility selectors
+//-----------------------------
+.two-thirds{
+  width:66%;
+}
+.one-third{
+  width:33%;
+}
+
+.full-thirds{
+ width:100%; 
+}
+
+.overlay{}
+
+.overlay--red{
+//  background-color:#551919;
+//  opacity:90%;
+}
+
+.overlay--blue{
+//  background-color:#9fcec3;
+//  opacity:90%;
+  
+}
+
+.overlay--teal{
+//  background-color:#417379;
+//  opacity:90%;
+  
+} 
+
+.close{
+  width:25px;
+}

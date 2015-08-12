@@ -1,34 +1,8 @@
-//---------------------------
-//utility selectors
-//-----------------------------
-.two-thirds{
-  width:66%;
-}
-.one-third{
-  width:33%;
-}
-
-.full-thirds{
- width:100%; 
-}
-
-.overlay{}
-
-.overlay--red{
-  background-color:;
-}
-
-.overlay--blue{
-  background-color:;
-}
-
-.overlay--teal{
-  background-color:;
-} 
 
 //-----------------------------
 // location specific
 //-----------------------------
-.location--chiago-theater{
-  
+.location--chicago-theater{
+  background-image:url("../img/mobile_chago_theater.png");
+  background-repeat:no-repeat;
 }

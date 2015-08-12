@@ -400,15 +400,48 @@ body {
 .full-thirds {
   width: 100%; }
 
-.close {
-  width: 25px; }
-
 .header__graphic {
   position: relative;
   width: 100%; }
 
 .location--chicago-theater {
   background-image: url("../img/mobile_chago_theater.png");
+  background-repeat: no-repeat; }
+
+.location--crown-fountain {
+  background-image: url("../img/mobile_kid_popsickle.png");
+  background-repeat: no-repeat; }
+
+.location--navy-pier {
+  background-image: url("../img/mobile_ferris_wheel.png");
+  background-repeat: no-repeat; }
+
+.location--buckingham-fountain {
+  background-image: url("../img/fountain.png");
+  background-repeat: no-repeat; }
+
+.location--wrigley-field {
+  background-image: url("../img/mobile_wrigley.png");
+  background-repeat: no-repeat; }
+
+.location--millenium-park {
+  background-image: url("../img/mobile_centenial.png");
+  background-repeat: no-repeat; }
+
+.location--cloud-gate {
+  background-image: url("../img/chromecloud.png");
+  background-repeat: no-repeat; }
+
+.location--field-museum {
+  background-image: url("../img/capital_graphic.png");
+  background-repeat: no-repeat; }
+
+.location--lincoln-zoo {
+  background-image: url("../img/tiger.png");
+  background-repeat: no-repeat; }
+
+.location--skydeck {
+  background-image: url("../img/mobile_feet.png");
   background-repeat: no-repeat; }
 
 /*# sourceMappingURL=styles.css.map */
